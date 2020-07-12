@@ -1,16 +1,12 @@
-### Hi there 👋
+## Welcome to my profile👋
+My name is Giovani and I am a fullstack developer <br />
+[LinkedIn](https://www.linkedin.com/in/giovani-ricco-farias-b97316186/)
 
-<!--
-**giovaniif/giovaniif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💜 In love with Typescript
+- 🌈 Studying UI and UX design
+- 🎒 Bootcamp GoStack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to look at some of my projects 😌 <br />
+- 👾 [Home 360](https://home360.com.br)<br />
+- 🥳 [My NPM lib](https://www.npmjs.com/package/binarysjs) <br />
+- 📝 [Medium Posts](https://medium.com/@giovaniif/building-a-rest-api-with-node-js-and-mongodb-c470f18d67bd) 
