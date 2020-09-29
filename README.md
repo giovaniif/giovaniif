@@ -7,6 +7,6 @@ My name is Giovani and I am a fullstack developer <br />
 - 🎒 Bootcamp GoStack
 
 Feel free to look at some of my projects 😌 <br />
-- 👾 [Home 360](https://home360.com.br/signin)<br />
+- 👾 [Atuale Imobiliária](https://atualeimobiliaria.com)<br />
 - 🥳 [My NPM lib](https://www.npmjs.com/package/binarysjs) <br />
-- 📝 [Medium Posts](https://medium.com/@giovaniif/building-a-rest-api-with-node-js-and-mongodb-c470f18d67bd) 
+- 📝 [Medium Posts](https://github.com/giovaniif/medium-posts) 
