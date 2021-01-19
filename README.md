@@ -1,5 +1,5 @@
 ## Welcome to my profile👋
-My name is Giovani and I am a fullstack developer <br />
+My name is Giovani and I am a software developer <br />
 [LinkedIn](https://www.linkedin.com/in/giovani-ricco-farias-b97316186/)
 
 - 💜 In love with Typescript
