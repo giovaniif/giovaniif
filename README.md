@@ -3,7 +3,7 @@ My name is Giovani and I am a software developer <br />
 [LinkedIn](https://www.linkedin.com/in/giovani-ricco-farias-b97316186/)
 
 - 💜 In love with Typescript
-- 📚 Focused on **frontend** study 
+- 📚 Studying Software Architecture
 - 🎒 Bootcamp GoStack
 
 Feel free to look at some of my projects 😌 <br />
