@@ -9,4 +9,4 @@ My name is Giovani and I am a software developer <br />
 Feel free to look at some of my projects 😌 <br />
 - 👾 [Atuale Imobiliária](https://atualeimobiliaria.com)<br />
 - 🥳 [My NPM lib](https://www.npmjs.com/package/binarysjs) <br />
-- 📝 [Medium Posts](https://github.com/giovaniif/medium-posts) 
+- 📝 [Medium Posts](https://giovaniif.medium.com/) 
