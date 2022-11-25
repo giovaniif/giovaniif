@@ -7,6 +7,7 @@ My name is Giovani and I am a software developer <br />
 - 🎒 Bootcamp GoStack
 
 Feel free to look at some of my projects 😌 <br />
+- ▶️ [Youtube Channel](https://youtube.com/@giovaniif) <br />
 - 👾 [Atuale Imobiliária](https://atualeimobiliaria.com)<br />
 - 🥳 [My NPM lib](https://www.npmjs.com/package/binarysjs) <br />
 - 📝 [Medium Posts](https://giovaniif.medium.com/) 
