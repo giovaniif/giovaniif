@@ -2,9 +2,7 @@
 My name is Giovani and I am a software developer <br />
 [LinkedIn](https://www.linkedin.com/in/giovani-ricco-farias-b97316186/)
 
-- 💜 In love with Typescript
-- 📚 Studying Software Architecture
-- 🎒 Bootcamp GoStack
+- 📚 Studying Software Architecture and Design
 
 Feel free to look at some of my projects 😌 <br />
 - ▶️ [Youtube Channel](https://youtube.com/@giovaniif) <br />
