@@ -1,5 +1,5 @@
 ## Welcome to my profile👋
-My name is Giovani and I am a software developer <br />
+My name is Giovani and I am a software engineer <br />
 [LinkedIn](https://www.linkedin.com/in/giovani-ricco-farias-b97316186/)
 
 - 📚 Studying Software Architecture and Design
